@@ -26,4 +26,8 @@ All data is sourced from the internal HR database, ensuring up-to-date and accur
 - Distance status: Employee proximity to the workplace categorized as Very Close, Close, and Very Far 🗺️  
 - User-friendly interface with interactive visuals to enable strategic HR decision-making
 
+Get intractive HR Dashboard :- 
+https://app.powerbi.com/view?r=eyJrIjoiZTc2OWQyMDMtZTJhMS00ZGFlLTk0YTctZDZiM2MxMmQ3NTYzIiwidCI6ImYzZDJiMzRkLWYxNTQtNGVmZi04NGExLWU0ZWJiMTUwYTliOSJ9
+
+*Created by Raju Singh – Senior Business Analyst | Power BI Specialist | Data Analytics & Automation*  
   
